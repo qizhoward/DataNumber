@@ -1,0 +1,96 @@
+NumberOfDictoryReadme
+
+   0120
+   01110
+    
+    |2:01210
+    |2:011110
+    
+    |3:01230
+    |3:012120/012210
+    |-----
+    |3:0111120/0111210/0121110/0121110/01111110
+    |4+1
+    |-----
+    
+    ----------
+    
+    |-----
+    |4:0220
+    |4:011110
+    |4+1
+    |4+4
+    |-----
+    
+    |5:0230
+    |5:0320
+    |5:02120
+    |5:02210
+    
+    -----
+    loop
+    break up 2 / 3
+    to change 4 and 5
+    -----
+    
+    OutPrint:0/1 or 1/0
+    
+    EXample
+    123456789 10
+    
+    OutPrint:
+    10110111011110111110111111011111110111111110111111111011111111110
+    101101110110111011101111011110111110111110
+    
+    百度翻译:算法速度
+    Algorithm speed
+    提高算法速度
+    Improve
+        |
+        | 百度翻译:三角形算法
+        | Triangle algorithm
+        |
+        | 10/2 5+1 5-1 6 or 4
+        | 10/2 once 5/2 twice 3+1 3-1 or 2+1 2-1
+        | 10/2 once 5/2 twive 7+1 7-1 or 8+1 8-1
+        |
+        | future use to map location and quick input method switching typewriting
+        |
+        | threetimes 
+        | 百度翻译:禁止部分
+        | Prohibition part
+        |
+        | use 6 7 8 9 and 1 2 3 4
+        |
+        | if big number use
+        |
+        | 1 2 2 2or1
+        | 1 2 1or2 2
+        |
+        | 1 11 11 11 or 1
+        | 1 11 1or11 11
+        |
+        | space use 0
+        |
+        | we use this way to map and quick keyboard input
+        | 我们用这种方式用于地图,输入法快速切换
+        |
+        |
+        | High speed cycle  loop
+        | 高速循环
+        |－－－－－－－－－－
+        |
+        |百度翻译的:
+        |
+        | Not recommended for
+        | 不建议用于
+        |
+        | |EOD system
+        | |排爆系统
+        |
+        | |Explosive ordnance disposal
+        | |排爆
+        |
+        |
+    
+       2020.03.22未写完
